@@ -1,0 +1,6 @@
+print("Calculator:")
+x = int(input('x value ?'))
+y = int (input('y value ?'))
+print(x+y)
+print(x-y)
+print(x*y)
